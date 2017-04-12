@@ -1,0 +1,46 @@
+main{
+	font-size: 0;
+}
+
+.bigbox {
+	margin-top:50px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	border: black 1px;
+}
+
+.box{
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.half{
+	width:50%;
+	height:200px;
+}
+
+.third{
+	width: 33.33%;
+	height:300px;
+}
+
+.grey{
+	background-color: grey;	
+}
+
+.black{
+	background-color: black;
+}
+
+.orange{
+	background-color: orange;
+}
+
+.green{
+	background-color: green;
+}
+
+.blue{
+	background-color: blue;
+}
