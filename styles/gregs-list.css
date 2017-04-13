@@ -1,0 +1,44 @@
+nav {
+	position: relative;
+	background-color: lightgrey;
+	height: 40px;
+	width: 100%;
+	text-align: right;
+	padding: 10px;
+}
+
+.gregs-list{
+	position: absolute;
+	left: 10px;
+	font-size: 110%;
+}
+
+main {
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-right: 100px;
+	position: relative;
+
+
+}
+
+label {
+	margin-bottom: 20px;
+}
+
+input{
+
+}
+
+.nav2 {
+	margin-top: 35px;
+	border: solid lightgrey;
+	height: 35px;
+	width: 400px;
+
+}
+
+.magnifying-glass {
+	height: 5%;
+	width: 5%;
+}
