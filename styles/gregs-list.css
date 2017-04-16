@@ -27,18 +27,45 @@ label {
 }
 
 input{
+	display: inline-block;
 
 }
 
-.nav2 {
+.pagination {
 	margin-top: 35px;
-	border: solid lightgrey;
+	 /*border: solid lightgrey;*/
 	height: 35px;
 	width: 400px;
 
 }
 
+.pagination span {
+
+}
+
+.pagination .prev {
+
+}
+
+.pagination .numbers {
+
+}
+
+.pagination .next {
+
+}
+
 .magnifying-glass {
-	height: 5%;
-	width: 5%;
+	height:35px;
+	width: auto;
+	vertical-align: middle;
+}
+
+.list {
+	list-style: none;
+}
+
+.searchbar .button img {
+	height: 35px;
+
 }
